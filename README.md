@@ -7,7 +7,7 @@ The objective of this assignment is to **parallelize the evacuation logic** usin
 
 ## Problem Statement
 We are given a simulation where multiple people must evacuate through limited exits.  
-The goal is to implement the evacuation logic efficiently using **parallel CUDA kernels**, while ensuring correctness and synchronization.
+The goal is to implement the evacuation logic efficiently using parallel CUDA kernels, while ensuring correctness and synchronization.
 
 ---
 
