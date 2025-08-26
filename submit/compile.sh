@@ -1,1 +1,1 @@
-nvcc -std=c++17 main.cu -o main.out 
+nvcc -std=c++17 Effective_Route.cu -o main.out 
